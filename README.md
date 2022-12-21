@@ -1,6 +1,6 @@
 # unity-ar-anchor-example
 
-An example of AR anchor integration in Unity using AR Foundation. Using this application, a 3D object can be anchored in an AR scene. This project is built using Unity version 2021.3.11f1 and is designed to run on Android devices (not tested in iOS).
+An example of AR anchor integration in Unity using AR Foundation. Using this application, a 3D object can be anchored in an AR scene. This project is built using Unity and is designed to run on Android devices (not tested in iOS).
 
 ## Supported Platforms
 This project is designed for use on both iOS and Android, but it has only been tested on Android.
@@ -8,7 +8,7 @@ This project is designed for use on both iOS and Android, but it has only been t
 ## Running Locally
 Use the following steps to run locally:
 1. Clone this repo
-2. Open repo folder using Unity 2021.3.11f1
+2. Open repo folder using Unity 2021.3.16f1
 3. Install Text Mesh Pro
 
 ## Development
@@ -25,7 +25,7 @@ Setup steps to be able to include AR Foundation and build and deploy:
 - For Android, in Project Settings > Other Settings, Add ARM64 to Target Architectures
 
 ## Development Tools
-- Created using Unity 2021.3.11f1
+- Created using Unity 2021.3.16f1
 - Code edited using Visual Studio Code
 
 ## Credits
